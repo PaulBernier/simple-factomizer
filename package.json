@@ -1,0 +1,14 @@
+{
+  "name": "simple-factomizer",
+  "version": "1.0.0",
+  "description": "Simple factomizer to learn the basics of factom.js",
+  "main": "factomize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Bernier",
+  "license": "MIT",
+  "dependencies": {
+    "factom": "^1.0.0"
+  }
+}
