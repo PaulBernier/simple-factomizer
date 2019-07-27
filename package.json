@@ -9,6 +9,6 @@
   "author": "Paul Bernier",
   "license": "MIT",
   "dependencies": {
-    "factom": "^1.0.0"
+    "factom": "^1.2.5"
   }
 }
